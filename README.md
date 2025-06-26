@@ -3,7 +3,6 @@ I'm a B.Tech student at the Indian Institute of Technology, Roorkee, passionate 
 - **Data Science & Analytics**
 -  **Sustainable Development & Green Tech**
 -  **Machine Learning & AI**
--  **Consulting & Business Strategy**
 -  **Problem Solving & Research**
 
   Projects
@@ -35,7 +34,6 @@ I'm a B.Tech student at the Indian Institute of Technology, Roorkee, passionate 
   ##  I'm Looking For
 I'm actively seeking **internship opportunities** in:
 - **Data Science / Data Analytics**
-- **Consulting**
 - **Sustainability-focused tech**
 - **Government research programs**
 
