@@ -36,6 +36,11 @@ I'm actively seeking **internship opportunities** in:
 - **Data Science / Data Analytics**
 - **Sustainability-focused tech**
 - **Government research programs**
+  ![image alt](https://github.com/sanskriti111-j/Data-Analysis-Project/blob/02315f850ce03e9b3c20e638682c4e960969c94f/Screenshot%202025-07-01%20235604.png)
+
+  
+  ![image alt](https://github.com/sanskriti111-j/instagram_clone_users/blob/b430627ee962fe80d7cbf124f7dea2d9a580c50b/InstagramCloneDashboard%20(1).png)
+  ![image alt](https://github.com/sanskriti111-j/Data-Analysis-Project/blob/02315f850ce03e9b3c20e638682c4e960969c94f/Screenshot%202025-07-02%20211611.png)
 
 - ## 📫 Let's Connect!
 - Email: sanskritijaiswal0725@gmail.com
